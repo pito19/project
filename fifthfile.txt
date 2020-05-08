@@ -3,3 +3,7 @@ second file
 
 
 omer was her!
+
+<!doctype>
+<html>
+<head></head><body><div>HI every one!!</div></body></html>
